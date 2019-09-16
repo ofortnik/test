@@ -1,0 +1,17 @@
+Создание репозитория в существующей директории
+    $ git init
+    
+Клонирование существующего репозитория
+    $ git clone https://github.com/ofortnik/test
+    
+Клонирование существующего репозитория под другим именем
+    $ git clone https://github.com/ofortnik/test GitCommands
+    
+Добавить файл под версионный контроль
+    $ git add Основы Git.txt
+    
+    
+    
+    
+Определение состояния файлов
+    $ git status
