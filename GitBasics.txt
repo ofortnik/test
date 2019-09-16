@@ -22,6 +22,7 @@
     
 Удалить файл
     rm file.php
+    git rm log/\*.log
     
 Игнорировать файл
     git rm --cached file.php
